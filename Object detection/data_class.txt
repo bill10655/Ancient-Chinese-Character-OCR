@@ -1,0 +1,2 @@
+word,0
+non-word,1
