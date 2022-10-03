@@ -1,5 +1,5 @@
-# OCR_Recognition
-- data based on [MTHv2](https://github.com/HCIILAB/MTHv2_Datasets_Release)
+# Ancient-Chinese-Character-OCR
+- Database based on [MTHv2](https://github.com/HCIILAB/MTHv2_Datasets_Release)
 
 ## WorkFlow
 [pic]
