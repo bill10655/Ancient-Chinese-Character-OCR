@@ -1,4 +1,2 @@
 # Language model support for OCR
-
-## Language model
-- We adopt bi-LSTM for supporting object detection
+- We adopt bi-LSTM for supporting the object detection task
