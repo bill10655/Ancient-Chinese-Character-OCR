@@ -20,3 +20,4 @@ Second, we adopt RetinaNet as the object detection model
 - https://docs.opencv.org/3.4/db/df6/tutorial_erosion_dilatation.html
 - https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
 - https://github.com/yhenon/pytorch-retinanet
+- https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
