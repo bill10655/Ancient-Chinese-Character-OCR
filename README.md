@@ -2,7 +2,7 @@
 - Database from [MTHv2](https://github.com/HCIILAB/MTHv2_Datasets_Release)
 
 ## WorkFlow
-![pic](https://github.com/bill10655/Ancient-Chinese-Character-OCR/blob/main/Model%20structure.png)
+![pic](https://github.com/bill10655/Ancient-Chinese-Character-OCR/blob/main/Model_structure.png)
 
 ## Result Visualization
 ![result](https://github.com/bill10655/Ancient-Chinese-Character-OCR/blob/main/OCR_results.png)
