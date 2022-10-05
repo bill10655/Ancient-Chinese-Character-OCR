@@ -8,7 +8,8 @@
 ### Object detection model
 ### Language model support
 
-## Experimental Results
+## Result Visualization
+![result](https://github.com/bill10655/Ancient-Chinese-Character-OCR/blob/main/OCR_results.png)
 
 ## References
-
+- https://github.com/HCIILAB/MTHv2_Datasets_Release
