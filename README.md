@@ -5,6 +5,8 @@
 ![pic](https://github.com/bill10655/Ancient-Chinese-Character-OCR/blob/main/Model%20structure.png)
 
 ### Pre-processing
+First, due to the data is came from real world, it inevitably 
+
 ### Object detection model
 ### Language model support
 
